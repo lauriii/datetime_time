@@ -1,0 +1,6 @@
+name: Datetime Time Widget
+description: Defines datetime widget which has only the time selection.
+package: Widgets
+version: 8.x-1.0
+core: 8.x
+type: module
